@@ -23,7 +23,7 @@
 
 
 
-**섹션 1. Django Tutorial**  **⏰ 2022.04.10** 
+**섹션 1. Django Tutorial**  
 
 - [x] 첫 앱 시작, 그리고 기본적인 view 만들기
 - [x] Git 의 소개
@@ -44,7 +44,7 @@
 
 
 
-**섹션 2. Accountapp implementation** **:checkered_flag:  2022.04.11** 
+**섹션 2. Accountapp implementation** 
 
 - [ ] CreateView를 통한 회원가입 구현
 - [ ] Login / Logout 구현
@@ -63,7 +63,7 @@
 
 
 
-**섹션 4. Profileapp Implementation** **:checkered_flag:  2022.04.12** 
+**섹션 4. Profileapp Implementation** 
 
 - [ ] Profileapp 시작 그리고 ModelForm
 - [ ] Profileapp 구현 시작
@@ -72,7 +72,7 @@
 
 
 
-**섹션 5. Articleapp Implementation** **:checkered_flag: 2022.04.13** 
+**섹션 5. Articleapp Implementation** 
 
 - [ ] MagicGrid 소개 및 Articleapp 시작
 - [ ] Article 모델 생성 오류 수정
@@ -94,7 +94,7 @@
 
 
 
-**섹션 8. Projectapp Implementation** **:checkered_flag: 2022.04.14** 
+**섹션 8. Projectapp Implementation** 
 
 - [ ] ProjectApp 구현
 - [ ] MultipleObjectMixin을 통한 ProjectApp 마무리
@@ -115,14 +115,14 @@
 
 
 
-**섹션 11. What is DOCKER? : Service Deployment** **:checkered_flag:2022.04.15** **⏰ 2022.04.17** 
+**섹션 11. What is DOCKER? : Service Deployment** 
 
 - [ ] Why Docker? 서비스 배포로 들어가며
 - [ ] VPS 대여
 
 
 
-**섹션 12. Docker Container, Image** **:checkered_flag: 2022.04.18** 
+**섹션 12. Docker Container, Image**
 
 - [ ] Docker GUI Portainer 컨테이너 생성
 - [ ] Port의 이해 그리고 Nginx 컨테이너 생성
@@ -143,7 +143,7 @@
 
 
 
-**섹션 14. Local , Remote environment detachment** **:checkered_flag: 2022.04.19** 
+**섹션 14. Local , Remote environment detachment** 
 
 - [ ] MariaDB 컨테이너를 이용한 DB 분리
 - [ ] 개발/배포 설정 분리
@@ -152,7 +152,7 @@
 
 
 
-**섹션 15. Docker Swarm, Stack, Secret** **:checkered_flag: 2022.04.20** 
+**섹션 15. Docker Swarm, Stack, Secret** 
 
 - [ ] Container의 한계, Docker Stack의 이해
 - [ ] Docker Swarm 의 이해
@@ -169,7 +169,7 @@
 
 
 
-**섹션 17. 보강 1: AWS / HTTPS / 좋아요 시스템** **:checkered_flag: 2022.04.21** **⏰ 2022.04.22** 
+**섹션 17. 보강 1: AWS / HTTPS / 좋아요 시스템** 
 
 - [ ] AWS 과금 관련 주의사항
 - [ ] 보강 개요
