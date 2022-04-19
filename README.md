@@ -6,6 +6,8 @@
 
 **✏장고일기**: https://idontlikemath-moonsong.tistory.com/
 
+:rocket: **노션**: https://www.notion.so/DJANGO-687f78570673439793f76cdb674138bd
+
 
 
 ## :timer_clock: 진도 트래커 
@@ -28,9 +30,9 @@
 - [x] 첫 앱 시작, 그리고 기본적인 view 만들기
 - [x] Git 의 소개
 - [x] Gitignore 설정, 환경변수 분리, 첫 커밋 📌 *2022.04.08*
-- [ ] 장고 Template의 extends, include 구문과 render 함수
-- [ ] include / extends / block 구문을 이용한 뼈대 html 만들기
-- [ ] style, 구글 폰트를 통해 Header, Footer 꾸미기
+- [x] 장고 Template의 extends, include 구문과 render 함수
+- [x] include / extends / block 구문을 이용한 뼈대 html 만들기 
+- [x] style, 구글 폰트를 통해 Header, Footer 꾸미기 📌 *2022.04.20*
 - [ ] Static 설정 및 CSS 파일 분리
 - [ ] CSS 간단 핵심
 - [ ] CSS display 속성, rem 단위 실습
