@@ -80,3 +80,7 @@ venv/
 gyumin_text/
 
 .env
+
+db.sqlite3
+
+.idea/
