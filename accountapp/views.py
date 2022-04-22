@@ -1,10 +1,8 @@
 from django.http import HttpResponse
 from django.shortcuts import render
-
-# Create your views here.
 from accountapp.models import HelloWorld
 
-
+# Create your views here.
 def hello_world(request):
     if request.method == 'POST':
         # request에서 POST 메서드 중, `hello_world_input`이라는 이름의 데이터를 가져와서 temp에 할당해라
@@ -17,8 +15,17 @@ def hello_world(request):
         # DB에  저장
         new_hello_world.save()
 
-        context = {'text': temp, 'hello_world_output': new_hello_world,}
+        hello_world_list = HelloWorld.objects.all()
+
+        context = {
+            'text': temp,
+            'hello_world_output': new_hello_world,
+            'hello_world_list': hello_world_list,
+        }
         return render(request, 'accountapp/hello_world.html', context)
     else:
-        context={'text': 'GET METHOD!!!'}
+        hello_world_list = HelloWorld.objects.all()
+        context = {
+            'hello_world_list': hello_world_list,
+        }
         return render(request, 'accountapp/hello_world.html', context)
