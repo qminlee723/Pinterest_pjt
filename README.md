@@ -12,7 +12,7 @@
 
 ## :timer_clock: 진도 트래커 
 
-> 2022.04.22까지 완주목표 :checkered_flag:
+> ~~2022.04.22까지 완주목표~~ :checkered_flag:
 
 
 
@@ -33,23 +33,23 @@
 - [x] 장고 Template의 extends, include 구문과 render 함수
 - [x] include / extends / block 구문을 이용한 뼈대 html 만들기 
 - [x] style, 구글 폰트를 통해 Header, Footer 꾸미기 📌 *2022.04.20*
-- [ ] Static 설정 및 CSS 파일 분리
-- [ ] CSS 간단 핵심
-- [ ] CSS display 속성, rem 단위 실습
-- [ ] Model, DB 연동
-- [ ] HTTP 프로토콜 GET, POST
-- [ ] GET, POST 프로토콜 실습
-- [ ] POST 통신을 이용한 DB 데이터 저장 실습
-- [ ] DB 정보 접근 및 장고 템플릿 내 for loop
-- [ ] Pycharm 디버깅 설정
-- [ ] Django 의 CRUD, Class Based View 소개
+- [x] Static 설정 및 CSS 파일 분리
+- [x] CSS 간단 핵심
+- [x] CSS display 속성, rem 단위 실습
+- [x] Model, DB 연동
+- [x] HTTP 프로토콜 GET, POST
+- [x] GET, POST 프로토콜 실습
+- [x] POST 통신을 이용한 DB 데이터 저장 실습
+- [x] DB 정보 접근 및 장고 템플릿 내 for loop
+- [x] Pycharm 디버깅 설정
+- [x] Django 의 CRUD, Class Based View 소개
 
 
 
 **섹션 2. Accountapp implementation** 
 
-- [ ] CreateView를 통한 회원가입 구현
-- [ ] Login / Logout 구현
+- [x] CreateView를 통한 회원가입 구현
+- [x] Login / Logout 구현 📌 *2022.05.02*
 - [ ] Bootstrap 을 이용한 Form 디자인 정리
 - [ ] DetailView를 이용한 개인 페이지 구현
 - [ ] UpdateView를 이용한 비밀번호 변경 구현
